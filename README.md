@@ -58,7 +58,12 @@ A real-time chat application with private/group messaging, media sharing, and on
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=abhiSolankii&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=default&hide_border=true
+## 📊 GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiSolankii&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=default&hide_border=true" alt="GitHub Stats" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshikharr&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170px"/>
+</p>
 
 ---
 
