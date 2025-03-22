@@ -27,6 +27,15 @@ Welcome to my GitHub! I'm a passionate developer with experience in building sca
 
 ---
 
+## 📊 GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhiSolankii&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=default&hide_border=true" alt="GitHub Stats" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshikharr&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170px"/>
+</p>
+
+---
+
 ## 📌 Featured Projects
 
 ### 🌐 [Clinix Sphere](https://www.clinixsphere.in)
@@ -55,15 +64,6 @@ A real-time chat application with private/group messaging, media sharing, and on
 - **LinkedIn:** [Abhishek Solanki](https://linkedin.com/in/abhishek-solanki)
 - **GitHub:** [abhiSolankii](https://github.com/abhiSolankii)
 - **Email:** abhisheksolanki01010@gmail.com
-
----
-
-## 📊 GitHub Statistics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhiSolankii&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=default&hide_border=true" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshikharr&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170px"/>
-</p>
 
 ---
 
