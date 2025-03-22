@@ -58,4 +58,8 @@ A real-time chat application with private/group messaging, media sharing, and on
 
 ---
 
+https://github-readme-stats.vercel.app/api?username=abhiSolankii&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=default&hide_border=true
+
+---
+
 ⚡ *Always open to collaborations and exciting projects!*
